@@ -1,5 +1,0 @@
-d/michael/learngit (master)
-bash: syntax error near unexpd/michael/learngit (master)
-bash: syntax error near unexpd/michael/learngit (master)
-bash: syntax error near unexpd/michael/learngit (master)
-bash: syntax error near unexp
